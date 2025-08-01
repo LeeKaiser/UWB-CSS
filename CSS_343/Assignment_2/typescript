@@ -1,0 +1,304 @@
+Script started on 2024-10-19 19:22:36-07:00
+]0;leekai26@csslab3:~/CSS_343/Assignment_2[leekai26@csslab3 Assignment_2]$ valgrind ./a.outg++ -g lab2-remove.cpp bintree.cpp nodedata.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Pvalgrind ./a.outg++ -g lab2.cpp bintree.cpp nodedata.cpp
+]0;leekai26@csslab3:~/CSS_343/Assignment_2[leekai26@csslab3 Assignment_2]$ g++ -g lab2.cpp bintree.cpp nodedata.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pvalgrind ./a.out
+==600604== Memcheck, a memory error detector
+==600604== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==600604== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==600604== Command: ./a.out
+==600604== 
+Initial data:
+  iii not tttt eee r not and jj r eee pp r sssss eee not tttt ooo ff m m y z $$ 
+Tree Inorder:
+and eee ff iii jj m not ooo pp r sssss tttt y z 
+                                                      z
+                                             y
+                                    tttt
+                                                      sssss
+                                             r
+                                                      pp
+                                                               ooo
+                           not
+                                             m
+                                    jj
+                  iii
+                                    ff
+                           eee
+                                    and
+Retrieve --> and:  found
+Retrieve --> not:  found
+Retrieve --> sss:  not found
+Sibling of and:  ff
+Sibling of not:  eee
+Sibling of sss:  notFound
+Parent of and:  eee
+Parent of not:  iii
+Parent of sss:  notFound
+T == T2?     equal
+T != first?  equal
+T == dup?    equal
+                                             z
+                                    y
+                                             tttt
+                           sssss
+                                             r
+                                    pp
+                                             ooo
+                  not
+                                             m
+                                    jj
+                                             iii
+                           ff
+                                             eee
+                                    and
+---------------------------------------------------------------
+Initial data:
+  b a c b a c $$ 
+Tree Inorder:
+a b c 
+                           c
+                  b
+                           a
+Retrieve --> and:  not found
+Retrieve --> not:  not found
+Retrieve --> sss:  not found
+Sibling of and:  notFound
+Sibling of not:  notFound
+Sibling of sss:  notFound
+Parent of and:  notFound
+Parent of not:  notFound
+Parent of sss:  notFound
+T == T2?     equal
+T != first?  not equal
+T == dup?    not equal
+                           c
+                  b
+                           a
+---------------------------------------------------------------
+Initial data:
+  c b a $$ 
+Tree Inorder:
+a b c 
+                  c
+                           b
+                                    a
+Retrieve --> and:  not found
+Retrieve --> not:  not found
+Retrieve --> sss:  not found
+Sibling of and:  notFound
+Sibling of not:  notFound
+Sibling of sss:  notFound
+Parent of and:  notFound
+Parent of not:  notFound
+Parent of sss:  notFound
+T == T2?     equal
+T != first?  not equal
+T == dup?    not equal
+                           c
+                  b
+                           a
+---------------------------------------------------------------
+Initial data:
+   
+==600604== 
+==600604== HEAP SUMMARY:
+==600604==     in use at exit: 0 bytes in 0 blocks
+==600604==   total heap usage: 194 allocs, 194 frees, 87,648 bytes allocated
+==600604== 
+==600604== All heap blocks were freed -- no leaks are possible
+==600604== 
+==600604== For lists of detected and suppressed errors, rerun with: -s
+==600604== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+]0;leekai26@csslab3:~/CSS_343/Assignment_2[leekai26@csslab3 Assignment_2]$ valgrind ./a.outg++ -g lab2.cpp bintree.cpp nodedata.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[24Pvalgrind ./a.outg++ -g lab2-remove.cpp bintree.cpp nodedata.cpp
+]0;leekai26@csslab3:~/CSS_343/Assignment_2[leekai26@csslab3 Assignment_2]$ g++ -g lab2-remove.cpp bintree.cpp nodedata.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Pvalgrind ./a.out
+==600619== Memcheck, a memory error detector
+==600619== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==600619== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==600619== Command: ./a.out
+==600619== 
+Initial data:
+  iii not tttt eee r not and jj r eee pp r sssss eee not tttt ooo ff m m y z $$ 
+Tree Inorder:
+and eee ff iii jj m not ooo pp r sssss tttt y z 
+                                                      z
+                                             y
+                                    tttt
+                                                      sssss
+                                             r
+                                                      pp
+                                                               ooo
+                           not
+                                             m
+                                    jj
+                  iii
+                                    ff
+                           eee
+                                    and
+
+remove --> and:  found
+                                                      z
+                                             y
+                                    tttt
+                                                      sssss
+                                             r
+                                                      pp
+                                                               ooo
+                           not
+                                             m
+                                    jj
+                  iii
+                                    ff
+                           eee
+
+remove --> iii:  found
+                                                      z
+                                             y
+                                    tttt
+                                                      sssss
+                                             r
+                                                      pp
+                                                               ooo
+                           not
+                                             m
+                                    jj
+                  ff
+                           eee
+
+remove --> r  :  found
+                                                      z
+                                             y
+                                    tttt
+                                                      sssss
+                                             pp
+                                                      ooo
+                           not
+                                             m
+                                    jj
+                  ff
+                           eee
+
+remove --> c  :  not found
+                                                      z
+                                             y
+                                    tttt
+                                                      sssss
+                                             pp
+                                                      ooo
+                           not
+                                             m
+                                    jj
+                  ff
+                           eee
+
+remove --> b  :  not found
+                                                      z
+                                             y
+                                    tttt
+                                                      sssss
+                                             pp
+                                                      ooo
+                           not
+                                             m
+                                    jj
+                  ff
+                           eee
+
+remove --> a  :  not found
+                                                      z
+                                             y
+                                    tttt
+                                                      sssss
+                                             pp
+                                                      ooo
+                           not
+                                             m
+                                    jj
+                  ff
+                           eee
+
+Tree Inorder:
+eee ff jj m not ooo pp sssss tttt y z 
+---------------------------------------------------------------
+Initial data:
+  b a c b a c $$ 
+Tree Inorder:
+a b c 
+                           c
+                  b
+                           a
+
+remove --> and:  not found
+                           c
+                  b
+                           a
+
+remove --> iii:  not found
+                           c
+                  b
+                           a
+
+remove --> r  :  not found
+                           c
+                  b
+                           a
+
+remove --> c  :  found
+                  b
+                           a
+
+remove --> b  :  found
+                  a
+
+remove --> a  :  found
+
+Tree Inorder:
+
+---------------------------------------------------------------
+Initial data:
+  c b a $$ 
+Tree Inorder:
+a b c 
+                  c
+                           b
+                                    a
+
+remove --> and:  not found
+                  c
+                           b
+                                    a
+
+remove --> iii:  not found
+                  c
+                           b
+                                    a
+
+remove --> r  :  not found
+                  c
+                           b
+                                    a
+
+remove --> c  :  found
+                  b
+                           a
+
+remove --> b  :  found
+                  a
+
+remove --> a  :  found
+
+Tree Inorder:
+
+---------------------------------------------------------------
+Initial data:
+   
+==600619== 
+==600619== HEAP SUMMARY:
+==600619==     in use at exit: 0 bytes in 0 blocks
+==600619==   total heap usage: 66 allocs, 66 frees, 84,144 bytes allocated
+==600619== 
+==600619== All heap blocks were freed -- no leaks are possible
+==600619== 
+==600619== For lists of detected and suppressed errors, rerun with: -s
+==600619== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+]0;leekai26@csslab3:~/CSS_343/Assignment_2[leekai26@csslab3 Assignment_2]$ exit
+
+Script done on 2024-10-19 19:22:59-07:00

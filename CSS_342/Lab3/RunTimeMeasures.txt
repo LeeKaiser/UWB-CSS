@@ -1,0 +1,912 @@
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 100
+time (ms): 67
+time (ms): 68
+time (ms): 62
+average time (ms): 65
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 1000
+time (ms): 6112
+time (ms): 4894
+time (ms): 4932
+average time (ms): 5312
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 5000
+time (ms): 136398
+time (ms): 130753
+time (ms): 130136
+average time (ms): 132429
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 10000
+time (ms): 533943
+time (ms): 542850
+time (ms): 541369
+average time (ms): 539387
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 50000
+time (ms): 13995826
+time (ms): 13978470
+time (ms): 14018399
+average time (ms): 13997565
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 100000
+time (ms): 57689364
+time (ms): 57055865
+time (ms): 56814713
+average time (ms): 57186647
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 500000
+command would take too long 
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 1000000
+command would take too long 
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 100
+time (ms): 0
+time (ms): 1
+time (ms): 1
+average time (ms): 0
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 1000
+time (ms): 17
+time (ms): 16
+time (ms): 16
+average time (ms): 16
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 5000
+time (ms): 61
+time (ms): 61
+time (ms): 57
+average time (ms): 59
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 10000
+time (ms): 63
+time (ms): 63
+time (ms): 54
+average time (ms): 60
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 50000
+time (ms): 271
+time (ms): 286
+time (ms): 239
+average time (ms): 265
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 100000
+time (ms): 490
+time (ms): 475
+time (ms): 463
+average time (ms): 476
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 500000
+time (ms): 2326
+time (ms): 2210
+time (ms): 2208
+average time (ms): 2248
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 1000000
+time (ms): 4709
+time (ms): 4691
+time (ms): 4430
+average time (ms): 4610
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 100
+time (ms): 12
+time (ms): 16
+time (ms): 12
+average time (ms): 13
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 1000
+time (ms): 37
+time (ms): 38
+time (ms): 38
+average time (ms): 37
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 5000
+time (ms): 594
+time (ms): 599
+time (ms): 375
+average time (ms): 522
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 10000
+time (ms): 938
+time (ms): 942
+time (ms): 951
+average time (ms): 943
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 50000
+time (ms): 3793
+time (ms): 3297
+time (ms): 1794
+average time (ms): 2961
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 100000
+time (ms): 5372
+time (ms): 3526
+time (ms): 3636
+average time (ms): 4178
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 500000
+time (ms): 17617
+time (ms): 17064
+time (ms): 17537
+average time (ms): 17406
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 1000000
+time (ms): 35551
+time (ms): 35444
+time (ms): 35027
+average time (ms): 35340
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 100
+time (ms): 73
+time (ms): 73
+time (ms): 73
+average time (ms): 73
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 1000
+time (ms): 7303
+time (ms): 6543
+time (ms): 5824
+average time (ms): 6556
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 5000
+time (ms): 134847
+time (ms): 133945
+time (ms): 132729
+average time (ms): 133840
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 10000
+time (ms): 531354
+time (ms): 537576
+time (ms): 531882
+average time (ms): 533604
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 50000
+time (ms): 13061373
+time (ms): 13147342
+time (ms): 13206376
+average time (ms): 13138363
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 100000
+time (ms): 52261653
+time (ms): 52539729
+time (ms): 53063081
+average time (ms): 52621487
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 500000
+command would take too long 
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 1000000
+command would take too long 
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Random 	 List Size: 	 100
+time (ms): 62
+time (ms): 66
+time (ms): 54
+average time (ms): 60
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Random 	 List Size: 	 1000
+time (ms): 5730
+time (ms): 2881
+time (ms): 1880
+average time (ms): 3497
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Random 	 List Size: 	 5000
+time (ms): 46628
+time (ms): 40574
+time (ms): 39625
+average time (ms): 42275
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Random 	 List Size: 	 10000
+time (ms): 163548
+time (ms): 157920
+time (ms): 156344
+average time (ms): 159270
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Random 	 List Size: 	 50000
+time (ms): 4020221
+time (ms): 4023782
+time (ms): 4012870
+average time (ms): 4018957
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Random 	 List Size: 	 100000
+time (ms): 15915221
+time (ms): 15965421
+time (ms): 16037313
+average time (ms): 15972651
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Random 	 List Size: 	 500000
+command would take too long 
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Random 	 List Size: 	 1000000
+command would take too long 
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Ordered 	 List Size: 	 100
+time (ms): 1
+time (ms): 1
+time (ms): 1
+average time (ms): 1
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Ordered 	 List Size: 	 1000
+time (ms): 10
+time (ms): 10
+time (ms): 10
+average time (ms): 10
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Ordered 	 List Size: 	 5000
+time (ms): 60
+time (ms): 50
+time (ms): 66
+average time (ms): 58
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Ordered 	 List Size: 	 10000
+time (ms): 100
+time (ms): 101
+time (ms): 100
+average time (ms): 100
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Ordered 	 List Size: 	 50000
+time (ms): 496
+time (ms): 496
+time (ms): 499
+average time (ms): 497
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Ordered 	 List Size: 	 100000
+time (ms): 1001
+time (ms): 1002
+time (ms): 832
+average time (ms): 945
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Ordered 	 List Size: 	 500000
+time (ms): 3922
+time (ms): 3677
+time (ms): 3748
+average time (ms): 3782
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Ordered 	 List Size: 	 1000000
+time (ms): 7357
+time (ms): 7661
+time (ms): 7373
+average time (ms): 7463
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Partial 	 List Size: 	 100
+time (ms): 2
+time (ms): 2
+time (ms): 2
+average time (ms): 2
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Partial 	 List Size: 	 1000
+time (ms): 67
+time (ms): 70
+time (ms): 58
+average time (ms): 65
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Partial 	 List Size: 	 5000
+time (ms): 137
+time (ms): 143
+time (ms): 202
+average time (ms): 160
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Partial 	 List Size: 	 10000
+time (ms): 395
+time (ms): 523
+time (ms): 491
+average time (ms): 469
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Partial 	 List Size: 	 50000
+time (ms): 1810
+time (ms): 1798
+time (ms): 1592
+average time (ms): 1733
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Partial 	 List Size: 	 100000
+time (ms): 2155
+time (ms): 2010
+time (ms): 2118
+average time (ms): 2094
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Partial 	 List Size: 	 500000
+time (ms): 10173
+time (ms): 10052
+time (ms): 10086
+average time (ms): 10103
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Partial 	 List Size: 	 1000000
+time (ms): 20444
+time (ms): 20597
+time (ms): 20586
+average time (ms): 20542
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Reversed 	 List Size: 	 100
+time (ms): 61
+time (ms): 46
+time (ms): 45
+average time (ms): 50
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Reversed 	 List Size: 	 1000
+time (ms): 3538
+time (ms): 3556
+time (ms): 3412
+average time (ms): 3502
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Reversed 	 List Size: 	 5000
+time (ms): 83544
+time (ms): 80590
+time (ms): 80199
+average time (ms): 81444
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Reversed 	 List Size: 	 10000
+time (ms): 319837
+time (ms): 318712
+time (ms): 319576
+average time (ms): 319375
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Reversed 	 List Size: 	 50000
+time (ms): 8017183
+time (ms): 8030336
+time (ms): 7999221
+average time (ms): 8015580
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Reversed 	 List Size: 	 100000
+time (ms): 30769449
+time (ms): 31463280
+time (ms): 31130453
+average time (ms): 31121060
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Reversed 	 List Size: 	 500000
+command would take too long 
+
+Sort Type: 	 InsertionSort 	 List Type: 	 Reversed 	 List Size: 	 1000000
+command would take too long 
+
+Sort Type: 	 MergeSort 	 List Type: 	 Random 	 List Size: 	 100
+time (ms): 64
+time (ms): 61
+time (ms): 60
+average time (ms): 61
+
+Sort Type: 	 MergeSort 	 List Type: 	 Random 	 List Size: 	 1000
+time (ms): 2881
+time (ms): 2763
+time (ms): 2046
+average time (ms): 2563
+
+Sort Type: 	 MergeSort 	 List Type: 	 Random 	 List Size: 	 5000
+time (ms): 48292
+time (ms): 44530
+time (ms): 43935
+average time (ms): 45585
+
+Sort Type: 	 MergeSort 	 List Type: 	 Random 	 List Size: 	 10000
+time (ms): 179009
+time (ms): 174212
+time (ms): 175772
+average time (ms): 176331
+
+Sort Type: 	 MergeSort 	 List Type: 	 Random 	 List Size: 	 50000
+time (ms): 4306551
+time (ms): 4276267
+time (ms): 4286884
+average time (ms): 4289900
+
+Sort Type: 	 MergeSort 	 List Type: 	 Random 	 List Size: 	 100000
+time (ms): 17147374
+time (ms): 16975203
+time (ms): 17342236
+average time (ms): 17154937
+
+Sort Type: 	 MergeSort 	 List Type: 	 Random 	 List Size: 	 500000
+command would take too long 
+
+Sort Type: 	 MergeSort 	 List Type: 	 Random 	 List Size: 	 1000000
+command would take too long 
+
+Sort Type: 	 MergeSort 	 List Type: 	 Ordered 	 List Size: 	 100
+time (ms): 57
+time (ms): 55
+time (ms): 54
+average time (ms): 55
+
+Sort Type: 	 MergeSort 	 List Type: 	 Ordered 	 List Size: 	 1000
+time (ms): 2890
+time (ms): 2339
+time (ms): 2186
+average time (ms): 2471
+
+Sort Type: 	 MergeSort 	 List Type: 	 Ordered 	 List Size: 	 5000
+time (ms): 50613
+time (ms): 43965
+time (ms): 44006
+average time (ms): 46194
+
+Sort Type: 	 MergeSort 	 List Type: 	 Ordered 	 List Size: 	 10000
+time (ms): 180214
+time (ms): 174354
+time (ms): 176567
+average time (ms): 177045
+
+Sort Type: 	 MergeSort 	 List Type: 	 Ordered 	 List Size: 	 50000
+time (ms): 4357105
+time (ms): 4354746
+time (ms): 4323267
+average time (ms): 4345039
+
+Sort Type: 	 MergeSort 	 List Type: 	 Ordered 	 List Size: 	 100000
+time (ms): 16988570
+time (ms): 16992964
+time (ms): 17079141
+average time (ms): 17020225
+
+Sort Type: 	 MergeSort 	 List Type: 	 Ordered 	 List Size: 	 500000
+command would take too long 
+
+Sort Type: 	 MergeSort 	 List Type: 	 Ordered 	 List Size: 	 1000000
+command would take too long 
+
+Sort Type: 	 MergeSort 	 List Type: 	 Partial 	 List Size: 	 100
+time (ms): 148
+time (ms): 141
+time (ms): 139
+average time (ms): 142
+
+Sort Type: 	 MergeSort 	 List Type: 	 Partial 	 List Size: 	 1000
+time (ms): 3539
+time (ms): 2994
+time (ms): 1922
+average time (ms): 2818
+
+Sort Type: 	 MergeSort 	 List Type: 	 Partial 	 List Size: 	 5000
+time (ms): 51382
+time (ms): 42979
+time (ms): 43095
+average time (ms): 45818
+
+Sort Type: 	 MergeSort 	 List Type: 	 Partial 	 List Size: 	 10000
+time (ms): 179957
+time (ms): 174144
+time (ms): 171824
+average time (ms): 175308
+
+Sort Type: 	 MergeSort 	 List Type: 	 Partial 	 List Size: 	 50000
+time (ms): 4295332
+time (ms): 4273396
+time (ms): 4342896
+average time (ms): 4303874
+
+Sort Type: 	 MergeSort 	 List Type: 	 Partial 	 List Size: 	 100000
+time (ms): 17747262
+time (ms): 18094073
+time (ms): 17677883
+average time (ms): 17839739
+
+Sort Type: 	 MergeSort 	 List Type: 	 Partial 	 List Size: 	 500000
+command would take too long 
+
+Sort Type: 	 MergeSort 	 List Type: 	 Partial 	 List Size: 	 1000000
+command would take too long 
+
+Sort Type: 	 MergeSort 	 List Type: 	 Reversed 	 List Size: 	 100
+time (ms): 143
+time (ms): 136
+time (ms): 114
+average time (ms): 131
+
+Sort Type: 	 MergeSort 	 List Type: 	 Reversed 	 List Size: 	 1000
+time (ms): 3687
+time (ms): 3289
+time (ms): 3315
+average time (ms): 3430
+
+Sort Type: 	 MergeSort 	 List Type: 	 Reversed 	 List Size: 	 5000
+time (ms): 51472
+time (ms): 45765
+time (ms): 45345
+average time (ms): 47527
+
+Sort Type: 	 MergeSort 	 List Type: 	 Reversed 	 List Size: 	 10000
+time (ms): 180156
+time (ms): 175048
+time (ms): 177014
+average time (ms): 177406
+
+Sort Type: 	 MergeSort 	 List Type: 	 Reversed 	 List Size: 	 50000
+time (ms): 4342618
+time (ms): 4363387
+time (ms): 4337017
+average time (ms): 4347674
+
+Sort Type: 	 MergeSort 	 List Type: 	 Reversed 	 List Size: 	 100000
+time (ms): 17203797
+time (ms): 17100688
+time (ms): 17733377
+average time (ms): 17345954
+
+Sort Type: 	 MergeSort 	 List Type: 	 Reversed 	 List Size: 	 500000
+command would take too long 
+
+Sort Type: 	 MergeSort 	 List Type: 	 Reversed 	 List Size: 	 1000000
+command would take too long 
+
+Sort Type: 	 QuickSort 	 List Type: 	 Random 	 List Size: 	 100
+time (ms): 33
+time (ms): 27
+time (ms): 27
+average time (ms): 29
+
+Sort Type: 	 QuickSort 	 List Type: 	 Random 	 List Size: 	 1000
+time (ms): 384
+time (ms): 372
+time (ms): 487
+average time (ms): 414
+
+Sort Type: 	 QuickSort 	 List Type: 	 Random 	 List Size: 	 5000
+time (ms): 2327
+time (ms): 2308
+time (ms): 2327
+average time (ms): 2320
+
+Sort Type: 	 QuickSort 	 List Type: 	 Random 	 List Size: 	 10000
+time (ms): 3967
+time (ms): 2906
+time (ms): 2989
+average time (ms): 3287
+
+Sort Type: 	 QuickSort 	 List Type: 	 Random 	 List Size: 	 50000
+time (ms): 13503
+time (ms): 9030
+time (ms): 8051
+average time (ms): 10194
+
+Sort Type: 	 QuickSort 	 List Type: 	 Random 	 List Size: 	 100000
+time (ms): 18598
+time (ms): 17451
+time (ms): 16950
+average time (ms): 17666
+
+Sort Type: 	 QuickSort 	 List Type: 	 Random 	 List Size: 	 500000
+time (ms): 97676
+time (ms): 96455
+time (ms): 95510
+average time (ms): 96547
+
+Sort Type: 	 QuickSort 	 List Type: 	 Random 	 List Size: 	 1000000
+time (ms): 199437
+time (ms): 200896
+time (ms): 201889
+average time (ms): 200740
+
+Sort Type: 	 QuickSort 	 List Type: 	 Ordered 	 List Size: 	 100
+time (ms): 4
+time (ms): 3
+time (ms): 3
+average time (ms): 3
+
+Sort Type: 	 QuickSort 	 List Type: 	 Ordered 	 List Size: 	 1000
+time (ms): 33
+time (ms): 43
+time (ms): 34
+average time (ms): 36
+
+Sort Type: 	 QuickSort 	 List Type: 	 Ordered 	 List Size: 	 5000
+time (ms): 303
+time (ms): 291
+time (ms): 303
+average time (ms): 299
+
+Sort Type: 	 QuickSort 	 List Type: 	 Ordered 	 List Size: 	 10000
+time (ms): 639
+time (ms): 659
+time (ms): 650
+average time (ms): 649
+
+Sort Type: 	 QuickSort 	 List Type: 	 Ordered 	 List Size: 	 50000
+time (ms): 6367
+time (ms): 2573
+time (ms): 2570
+average time (ms): 3836
+
+Sort Type: 	 QuickSort 	 List Type: 	 Ordered 	 List Size: 	 100000
+time (ms): 6365
+time (ms): 5273
+time (ms): 5341
+average time (ms): 5659
+
+Sort Type: 	 QuickSort 	 List Type: 	 Ordered 	 List Size: 	 500000
+time (ms): 26731
+time (ms): 26185
+time (ms): 26653
+average time (ms): 26523
+
+Sort Type: 	 QuickSort 	 List Type: 	 Ordered 	 List Size: 	 1000000
+time (ms): 56258
+time (ms): 55237
+time (ms): 56705
+average time (ms): 56066
+
+Sort Type: 	 QuickSort 	 List Type: 	 Partial 	 List Size: 	 100
+time (ms): 22
+time (ms): 21
+time (ms): 18
+average time (ms): 20
+
+Sort Type: 	 QuickSort 	 List Type: 	 Partial 	 List Size: 	 1000
+time (ms): 64
+time (ms): 67
+time (ms): 63
+average time (ms): 64
+
+Sort Type: 	 QuickSort 	 List Type: 	 Partial 	 List Size: 	 5000
+time (ms): 476
+time (ms): 478
+time (ms): 471
+average time (ms): 475
+
+Sort Type: 	 QuickSort 	 List Type: 	 Partial 	 List Size: 	 10000
+time (ms): 1891
+time (ms): 1885
+time (ms): 1854
+average time (ms): 1876
+
+Sort Type: 	 QuickSort 	 List Type: 	 Partial 	 List Size: 	 50000
+time (ms): 7440
+time (ms): 3989
+time (ms): 4057
+average time (ms): 5162
+
+Sort Type: 	 QuickSort 	 List Type: 	 Partial 	 List Size: 	 100000
+time (ms): 11177
+time (ms): 8420
+time (ms): 8339
+average time (ms): 9312
+
+Sort Type: 	 QuickSort 	 List Type: 	 Partial 	 List Size: 	 500000
+time (ms): 43474
+time (ms): 44360
+time (ms): 43472
+average time (ms): 43768
+
+Sort Type: 	 QuickSort 	 List Type: 	 Partial 	 List Size: 	 1000000
+time (ms): 92371
+time (ms): 91898
+time (ms): 91959
+average time (ms): 92076
+
+Sort Type: 	 QuickSort 	 List Type: 	 Reversed 	 List Size: 	 100
+time (ms): 24
+time (ms): 19
+time (ms): 16
+average time (ms): 19
+
+Sort Type: 	 QuickSort 	 List Type: 	 Reversed 	 List Size: 	 1000
+time (ms): 92
+time (ms): 80
+time (ms): 78
+average time (ms): 83
+
+Sort Type: 	 QuickSort 	 List Type: 	 Reversed 	 List Size: 	 5000
+time (ms): 1244
+time (ms): 1196
+time (ms): 611
+average time (ms): 1017
+
+Sort Type: 	 QuickSort 	 List Type: 	 Reversed 	 List Size: 	 10000
+time (ms): 2436
+time (ms): 2305
+time (ms): 2292
+average time (ms): 2344
+
+Sort Type: 	 QuickSort 	 List Type: 	 Reversed 	 List Size: 	 50000
+time (ms): 7018
+time (ms): 5021
+time (ms): 4381
+average time (ms): 5473
+
+Sort Type: 	 QuickSort 	 List Type: 	 Reversed 	 List Size: 	 100000
+time (ms): 10360
+time (ms): 8659
+time (ms): 8835
+average time (ms): 9284
+
+Sort Type: 	 QuickSort 	 List Type: 	 Reversed 	 List Size: 	 500000
+time (ms): 49534
+time (ms): 50470
+time (ms): 48954
+average time (ms): 49652
+
+Sort Type: 	 QuickSort 	 List Type: 	 Reversed 	 List Size: 	 1000000
+time (ms): 105400
+time (ms): 106367
+time (ms): 106217
+average time (ms): 105994
+
+Sort Type: 	 ShellSort 	 List Type: 	 Random 	 List Size: 	 100
+time (ms): 37
+time (ms): 38
+time (ms): 39
+average time (ms): 38
+
+Sort Type: 	 ShellSort 	 List Type: 	 Random 	 List Size: 	 1000
+time (ms): 195
+time (ms): 181
+time (ms): 186
+average time (ms): 187
+
+Sort Type: 	 ShellSort 	 List Type: 	 Random 	 List Size: 	 5000
+time (ms): 3351
+time (ms): 2402
+time (ms): 2431
+average time (ms): 2728
+
+Sort Type: 	 ShellSort 	 List Type: 	 Random 	 List Size: 	 10000
+time (ms): 6900
+time (ms): 2808
+time (ms): 2802
+average time (ms): 4170
+
+Sort Type: 	 ShellSort 	 List Type: 	 Random 	 List Size: 	 50000
+time (ms): 22646
+time (ms): 19816
+time (ms): 20005
+average time (ms): 20822
+
+Sort Type: 	 ShellSort 	 List Type: 	 Random 	 List Size: 	 100000
+time (ms): 56870
+time (ms): 52818
+time (ms): 52339
+average time (ms): 54009
+
+Sort Type: 	 ShellSort 	 List Type: 	 Random 	 List Size: 	 500000
+time (ms): 883485
+time (ms): 882031
+time (ms): 884903
+average time (ms): 883473
+
+Sort Type: 	 ShellSort 	 List Type: 	 Random 	 List Size: 	 1000000
+time (ms): 3392507
+time (ms): 3395687
+time (ms): 3404029
+average time (ms): 3397407
+
+Sort Type: 	 ShellSort 	 List Type: 	 Ordered 	 List Size: 	 100
+time (ms): 13
+time (ms): 12
+time (ms): 11
+average time (ms): 12
+
+Sort Type: 	 ShellSort 	 List Type: 	 Ordered 	 List Size: 	 1000
+time (ms): 55
+time (ms): 70
+time (ms): 69
+average time (ms): 64
+
+Sort Type: 	 ShellSort 	 List Type: 	 Ordered 	 List Size: 	 5000
+time (ms): 859
+time (ms): 703
+time (ms): 708
+average time (ms): 756
+
+Sort Type: 	 ShellSort 	 List Type: 	 Ordered 	 List Size: 	 10000
+time (ms): 2066
+time (ms): 2082
+time (ms): 993
+average time (ms): 1713
+
+Sort Type: 	 ShellSort 	 List Type: 	 Ordered 	 List Size: 	 50000
+time (ms): 3392
+time (ms): 3151
+time (ms): 3207
+average time (ms): 3250
+
+Sort Type: 	 ShellSort 	 List Type: 	 Ordered 	 List Size: 	 100000
+time (ms): 9957
+time (ms): 6408
+time (ms): 6169
+average time (ms): 7511
+
+Sort Type: 	 ShellSort 	 List Type: 	 Ordered 	 List Size: 	 500000
+time (ms): 30685
+time (ms): 30309
+time (ms): 30329
+average time (ms): 30441
+
+Sort Type: 	 ShellSort 	 List Type: 	 Ordered 	 List Size: 	 1000000
+time (ms): 61389
+time (ms): 61333
+time (ms): 62503
+average time (ms): 61741
+
+Sort Type: 	 ShellSort 	 List Type: 	 Partial 	 List Size: 	 100
+time (ms): 15
+time (ms): 15
+time (ms): 15
+average time (ms): 15
+
+Sort Type: 	 ShellSort 	 List Type: 	 Partial 	 List Size: 	 1000
+time (ms): 212
+time (ms): 215
+time (ms): 216
+average time (ms): 214
+
+Sort Type: 	 ShellSort 	 List Type: 	 Partial 	 List Size: 	 5000
+time (ms): 741
+time (ms): 743
+time (ms): 744
+average time (ms): 742
+
+Sort Type: 	 ShellSort 	 List Type: 	 Partial 	 List Size: 	 10000
+time (ms): 1988
+time (ms): 1887
+time (ms): 823
+average time (ms): 1566
+
+Sort Type: 	 ShellSort 	 List Type: 	 Partial 	 List Size: 	 50000
+time (ms): 5711
+time (ms): 4680
+time (ms): 4596
+average time (ms): 4995
+
+Sort Type: 	 ShellSort 	 List Type: 	 Partial 	 List Size: 	 100000
+time (ms): 8234
+time (ms): 7598
+time (ms): 7396
+average time (ms): 7742
+
+Sort Type: 	 ShellSort 	 List Type: 	 Partial 	 List Size: 	 500000
+time (ms): 36216
+time (ms): 36083
+time (ms): 36451
+average time (ms): 36250
+
+Sort Type: 	 ShellSort 	 List Type: 	 Partial 	 List Size: 	 1000000
+time (ms): 74239
+time (ms): 73168
+time (ms): 73346
+average time (ms): 73584
+
+Sort Type: 	 ShellSort 	 List Type: 	 Reversed 	 List Size: 	 100
+time (ms): 9
+time (ms): 8
+time (ms): 8
+average time (ms): 8
+
+Sort Type: 	 ShellSort 	 List Type: 	 Reversed 	 List Size: 	 1000
+time (ms): 113
+time (ms): 113
+time (ms): 112
+average time (ms): 112
+
+Sort Type: 	 ShellSort 	 List Type: 	 Reversed 	 List Size: 	 5000
+time (ms): 1008
+time (ms): 1801
+time (ms): 1821
+average time (ms): 1543
+
+Sort Type: 	 ShellSort 	 List Type: 	 Reversed 	 List Size: 	 10000
+time (ms): 3435
+time (ms): 3214
+time (ms): 3058
+average time (ms): 3235
+
+Sort Type: 	 ShellSort 	 List Type: 	 Reversed 	 List Size: 	 50000
+time (ms): 21958
+time (ms): 17062
+time (ms): 17052
+average time (ms): 18690
+
+Sort Type: 	 ShellSort 	 List Type: 	 Reversed 	 List Size: 	 100000
+time (ms): 63060
+time (ms): 60830
+time (ms): 59249
+average time (ms): 61046
+
+Sort Type: 	 ShellSort 	 List Type: 	 Reversed 	 List Size: 	 500000
+time (ms): 1430121
+time (ms): 1429542
+time (ms): 1430433
+average time (ms): 1430032
+
+Sort Type: 	 ShellSort 	 List Type: 	 Reversed 	 List Size: 	 1000000
+time (ms): 5701289
+time (ms): 5650176
+time (ms): 5645412
+average time (ms): 5665625
+

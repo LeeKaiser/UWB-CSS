@@ -1,0 +1,11 @@
+Script started on 2025-05-18 17:17:51-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="166" LINES="12"]
+]0;leekai26@csslab3:~/CSS_430/Projects/P4[?2004h[leekai26@csslab3 P4]$ gcc -o memory.out memory.c
+[?2004l]0;leekai26@csslab3:~/CSS_430/Projects/P4[?2004h[leekai26@csslab3 P4]$ ./memory.out
+[?2004lMemo> R test.txt
+AAAAAAAAAA..........BBBBBBBBBB....................CCCCC...............DDDDD.....
+Cannot find 25 free bytes 
+AAAAAAAAAA..........BBBBBBBBBBFFFFFFFFFFFFFFFGGG..CCCCCH..............DDDDD.....
+]0;leekai26@csslab3:~/CSS_430/Projects/P4[?2004h[leekai26@csslab3 P4]$ exit
+[?2004lexit
+
+Script done on 2025-05-18 17:18:19-07:00 [COMMAND_EXIT_CODE="0"]

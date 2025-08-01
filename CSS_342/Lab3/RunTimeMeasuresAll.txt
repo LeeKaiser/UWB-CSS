@@ -1,0 +1,91 @@
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 100
+time (ms): 215
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 1000
+time (ms): 12300
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 5000
+time (ms): 134567
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 10000
+time (ms): 532478
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 50000
+time (ms): 13939898
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 100000
+time (ms): 56477473
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 500000
+time (ms): 1384043564
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Random 	 List Size: 	 1000000
+time (ms): 1235907626
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 100
+time (ms): 1
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 1000
+time (ms): 17
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 5000
+time (ms): 38
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 10000
+time (ms): 144
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 50000
+time (ms): 470
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 100000
+time (ms): 831
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 500000
+time (ms): 2214
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Ordered 	 List Size: 	 1000000
+time (ms): 4482
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 100
+time (ms): 4
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 1000
+time (ms): 44
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 5000
+time (ms): 241
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 10000
+time (ms): 478
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 50000
+time (ms): 2422
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 100000
+time (ms): 4848
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 500000
+time (ms): 17136
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Partial 	 List Size: 	 1000000
+time (ms): 34032
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 100
+time (ms): 210
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 1000
+time (ms): 6306
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 5000
+time (ms): 135281
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 10000
+time (ms): 517232
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 50000
+time (ms): 12665774
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 100000
+time (ms): 50654709
+
+Sort Type: 	 BubbleSort 	 List Type: 	 Reversed 	 List Size: 	 500000

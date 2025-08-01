@@ -1,0 +1,42 @@
+=== BEGIN HEAP TEST PROGRAM ===
+
+Initial stringA: ""
+Copied stringB: "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabc"
+
+=== MEMORY ALLOCATION TESTS ===
+_kalloc called
+Allocated mem1 (1024 bytes): 0x20001000
+_kalloc called
+Allocated mem2 (1024 bytes): 0x20001400
+_kalloc called
+Allocated mem3 (8192 bytes): 0x20003000
+_kalloc called
+Allocated mem4 (4096 bytes): 0x20002000
+_kalloc called
+Allocated mem5 (512 bytes): 0x20001800
+_kalloc called
+Allocated mem6 (1024 bytes): 0x20001c00
+_kalloc called
+Allocated mem7 (512 bytes): 0x20001a00
+
+=== MEMORY DEALLOCATION TESTS ===
+_rfree: mcb[200068c0] = 401
+Freed mem6 (1024 bytes)
+_rfree: mcb[20006880] = 201
+Freed mem5 (512 bytes)
+_rfree: mcb[20006800] = 401
+Freed mem1 (1024 bytes)
+_rfree: mcb[200068a0] = 201
+Freed mem7 (512 bytes)
+_rfree: mcb[20006840] = 401
+Freed mem2 (1024 bytes)
+_kalloc called
+
+Reallocated mem8 (4096 bytes): (nil)
+_rfree: mcb[20006900] = 1001
+Freed mem4 (4096 bytes)
+_rfree: mcb[20006a00] = 2001
+Freed mem3 (8192 bytes)
+Freed mem8 (4096 bytes)
+
+=== END HEAP TEST PROGRAM ===
